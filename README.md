@@ -59,7 +59,7 @@ To get started with Aenzbi Suite, you’ll need to clone the repository and foll
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/aenzbi-suite.git
+git clone https://github.com/allyelvis/aenzbi-suite.git
 cd aenzbi-suite
 
 
